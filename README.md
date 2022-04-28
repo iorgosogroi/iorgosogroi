@@ -1,11 +1,11 @@
-### Hi there 👋
+#Hi there 👋
 **About me**
 
 
-- I’m currently learning:Algorithyms,language and more stuff at cetism
-- 👯 I’m looking to collaborate hm
-- 🤔 I’m looking for help with:
+##Curiosity
+- I’m currently learning: Algorithyms,Progamation language and more stuff at cetism
 - 💬 Ask me about nothing pls
-- 📫 How to reach me:Contact me iorgosmoreira@gmail.com
 - ⚡ Fun fact:i like chess
+- 📫 How to reach me:Contact me iorgosmoreira@gmail.com
 
+Estou terminando ainda não tenho criatividade
