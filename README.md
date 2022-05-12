@@ -1,11 +1,16 @@
-#Hi there 👋
-**About me**
+# Olá 👋
+Me chamo Iorgos e estou atualmente estudando no CTISM\UFSM
 
+#### Eu gosto de:
+- Jogar xadrez mesmo sendo ruim
+- Jogar online (lol)
+- Tocar gaita (acordeon)
+- Ouvir musicas de todo tipo 
 
-##Curiosity
-- I’m currently learning: Algorithyms,Progamation language and more stuff at cetism
-- 💬 Ask me about nothing pls
-- ⚡ Fun fact:i like chess
-- 📫 How to reach me:Contact me iorgosmoreira@gmail.com
+### Linguagens que estou aprendendo:
+- C
 
-Estou terminando ainda não tenho criatividade
+#### Meu email para contato:
+- iorgosmoreira4@gmail.com
+
+Estou terminando ainda quase lá
