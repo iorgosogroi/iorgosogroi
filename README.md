@@ -15,6 +15,6 @@ Me chamo Iorgos e estou atualmente estudando no CTISM\UFSM
 
 ##### Imagens boas e importantes
 
-![eu editando isso as 4 da madrugada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fobamium&psig=AOvVaw05g41A1lYVF2S7-YQsDNN3&ust=1652444907737000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNiAxpX72fcCFQAAAAAdAAAAABAJ)
-
+ 
+![imagem](https://i.kym-cdn.com/entries/icons/mobile/000/030/873/Screenshot_20.jpg)
 Estou terminando ainda quase lá
