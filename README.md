@@ -35,4 +35,4 @@ Me chamo Iorgos tenho 15 anos e atualmente estou estudando Informática para int
 
 
 # Eu fazendo isso: :coffin:
-![SOCORRO](https://static.wikia.nocookie.net/sic-universe/images/8/85/Cc1.gif/revision/latest?cb=20191111000607&path-prefix=pt
+![SOCORRO](https://static.wikia.nocookie.net/sic-universe/images/8/85/Cc1.gif/revision/latest?cb=20191111000607&path-prefix=pt)
