@@ -2,7 +2,7 @@
 
 
 # Sobre mim
-Me chamo Iorgos tenho 15 anos e atualmente estou estudando Informática para internet no **CTISM\UFSM**
+Me chamo Iorgos tenho 17 anos e atualmente estou estudando Informática para internet no **CTISM\UFSM**
 
 ![tatusgit](https://github-readme-stats.vercel.app/api?username=iorgosogroi&show_icons=true&theme=radical)
 
